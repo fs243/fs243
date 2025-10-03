@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fs243
+- 👋 Hi, I’m Fahimeh.
 - 👀I am a Machine Learning Engineer, sometimes also referred to as a Data Scientist or Applied Scientist
 - 🌱 I recently defended my PhD, focusing on time-series forecasting and sensor placement
 - 👀 I have a few publications in progress, for which I will be sharing the codes soon, most of my work has focused on optimizing deep learning models, although my GitHub may not fully reflect that
